@@ -62,3 +62,9 @@ transaction-logs
 secrets.yml
 .gradletasknamecache
 .sts4-cache
+caches/
+build/
+daemon/
+gradle/
+out/
+native/
